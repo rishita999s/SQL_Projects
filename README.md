@@ -15,3 +15,9 @@ The database contains demographic information like:
 + population - The population as of 2015.
 + population_growth - The annual population growth rate, as a percentage.
 + area - The total land and water area.
+
+## [International Debt](International%20Debt)
+In this project, I have analyzed international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. It contains answers to questions like:
++ What is the total amount of debt that is owed by the countries listed in the dataset? 
++ Which country owns the maximum amount of debt and what does that amount look like? 
++ What is the average amount of debt owed by countries across different debt indicators?
