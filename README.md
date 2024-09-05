@@ -1,3 +1,7 @@
+Several projects involving the analysis of dat, this section is devoted to several project in data analysis (involving data mining, data aggregation and analysis). Those projects are all SQL based. SQL is a query language that allows to deal with big database and make quantitative analysis.
+
+Each project is dedicated to different areas and the context is well explained within the project's scopes.
+
 # Projects
 
 ## [Instagram Clone](Instagram%20Clone)
