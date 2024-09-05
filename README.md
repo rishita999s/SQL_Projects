@@ -14,7 +14,7 @@ It is used to perform data analysis for real world business related questions an
 
 ## [Analysis of 2015 world population](Analysis%20of%202015%20world%20population)
 This projects was intended to practise my SQL skills show knowledge of more complicated queries (subqueries).
-a compendium of statistics about all of the countries on Earth. 
+It is a compendium of statistics about all of the countries on Earth. 
 The database contains demographic information like:
 + population - The population as of 2015.
 + population_growth - The annual population growth rate, as a percentage.
